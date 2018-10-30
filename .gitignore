@@ -1,0 +1,7 @@
+/.idea
+/node_modules
+/logs
+/.scannerwork
+/.vscode
+sonar-project.properties
+/config/config.js
